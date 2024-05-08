@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Crop-Recommendation-System-Using-Deep-Learning
 
 <h3>Link to the Colab notebook</h3>
@@ -95,3 +96,7 @@ Installing Scikit-learn
 <br><br>
 <img src='https://github.com/Sairam-04/Crop-Recommendation-System-Using-Deep-Learning/blob/main/Readme%20Images/demo2.png'>
 
+=======
+# CropSelect
+crop recommendation system is for farmers which recommends best crop cultivation for suitable environments, also provides weather data and integrated with Gemini API
+>>>>>>> 08d884554fbfbe45205e889017bc83409cd63701
